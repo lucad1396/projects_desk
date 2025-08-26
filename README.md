@@ -15,7 +15,7 @@ Each project is designed to be **self-contained**, with clear explanations, repr
   - 📉 Residual analysis in **log-space and dollar-space**
   - 📊 **Learning curves** to assess bias-variance trade-offs
   - 💾 Saving and loading **pipelines and models** for predictions
-  - 🏆 **Final Kaggle submission**: Lasso (~15,233 RMSE, top ~6%) and XGBoost (~15,268 RMSE, top ~6.5%)
+  - 🏆 **Final Kaggle submission**: Lasso (~15,233 RMSE, top ~6% leaderboard) and XGBoost (~15,268 RMSE, top ~6.5% leaderboard)
 
 - *(Planned)* `CustomerSegmentation` – Clustering and profiling for marketing insights
 - *(Planned)* `Forecasting` – Time series prediction and demand forecasting
