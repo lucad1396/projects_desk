@@ -16,9 +16,9 @@ Each project is designed to be **self-contained**, with clear explanations, repr
   - 📊 **Learning curves** to assess bias-variance trade-offs
   - 💾 Saving and loading **pipelines and models** for predictions
   - 🏆 **Final Kaggle submissions**:
-   - **CatBoost (~14,578 RMSE, top ~3.8% leaderboard – best result 🎯)**  
-   - Lasso (~15,233 RMSE, top ~6.2% leaderboard)  
-   - XGBoost (~15,268 RMSE, top ~6.3% leaderboard)  
+    - **CatBoost (~14,578 RMSE, top ~3.8% leaderboard – best result 🎯)**  
+    - Lasso (~15,233 RMSE, top ~6.2% leaderboard)  
+    - XGBoost (~15,268 RMSE, top ~6.3% leaderboard)  
 
 - *(Planned)* `CustomerSegmentation` – Clustering and profiling for marketing insights
 - *(Planned)* `Forecasting` – Time series prediction and demand forecasting
