@@ -15,10 +15,13 @@ Each project is designed to be **self-contained**, with clear explanations, repr
   - 📉 Residual analysis in **log-space and dollar-space**
   - 📊 **Learning curves** to assess bias-variance trade-offs
   - 💾 Saving and loading **pipelines and models** for predictions
+  - 🔗 **Ensemble models**: weighted and stacked ensembles of Lasso + CatBoost
   - 🏆 **Final Kaggle submissions**:
-    - **CatBoost (~14,578 RMSE, top ~3.8% leaderboard – best result 🎯)**  
-    - Lasso (~15,233 RMSE, top ~6.2% leaderboard)  
-    - XGBoost (~15,268 RMSE, top ~6.3% leaderboard)  
+    - **Stacked Ensemble (~13892 RMSE, top ~2.0% leaderboard – best result 🎯)**
+    - Weighted Ensemble (~14054 RMSE, top ~2.5% leaderboard)
+    - CatBoost (~14390 RMSE, top ~3.3% leaderboard)
+    - Lasso (~15233 RMSE, top ~6.2% leaderboard)  
+    - XGBoost (~15268 RMSE, top ~6.4% leaderboard)  
 
 - *(Planned)* `CustomerSegmentation` – Clustering and profiling for marketing insights
 - *(Planned)* `Forecasting` – Time series prediction and demand forecasting
